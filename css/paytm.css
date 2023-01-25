@@ -14,6 +14,9 @@ body::-webkit-scrollbar-thumb{
     padding: 0;
     box-sizing: border-box;
 }
+svg{
+    color: #fff;
+}
 body{
     width: 100%;
     font-size: 1rem;
